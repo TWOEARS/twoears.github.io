@@ -1,0 +1,15 @@
+/* Settings for the links to the Universities */
+.consortium {
+    list-style: none;
+    padding: 0px;
+}
+.consortium li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.container main a.img {
+    padding-right: 8px;
+    border: 0px;
+}
+/* Settings for the map showing the Universities */
+#map { position:absolute; top:220px; bottom:0; height:330px; width:49%; }

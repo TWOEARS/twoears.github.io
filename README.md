@@ -1,3 +1,3 @@
 # Two!Ears web site
 
-Sources of the web site of the [Two!Ears](http://twoears.eu) project.
+Sources of the web site http://twoears.eu.
